@@ -2,6 +2,8 @@ import java.io.*;
 import java.util.*;
 
 // Class DelivA does the work for deliverable DelivA of the Prog340
+//This class reads a text file and interprets it as a graph.
+
 
 public class DelivA {
 
