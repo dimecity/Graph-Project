@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.*;
 
 // Class DelivB does the work for deliverable DelivB of the Prog340
+/*Do a Depth-first search of the directed graph, starting at the node with value “S” (not case sensitive). List
+the starting and finishing times of each Node, and the class of each Edge (tree edge, forward edge, back
+edge, cross edge).*/
 
 public class DelivB {
 
