@@ -6,6 +6,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 // Class DelivC does the work for deliverable DelivC of the Prog340
+/*Given a set of cities, you want to find the shortest route that visits every city and ends up back at the original starting city.
+For the purposes of this problem, every city will be directly reachable from every other city*/
 
 public class DelivC {
 
